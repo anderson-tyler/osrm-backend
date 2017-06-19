@@ -75,13 +75,13 @@ local profile = {
     'emergency',
     'psv',
     'customers',
-    'private',
+    -- 'private',
     'delivery',
     -- 'destination'
   },
 
   restricted_access_tag_list = Set {
-    'private',
+    -- 'private',
     'delivery',
     -- 'destination',
     'customers',
